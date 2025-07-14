@@ -1,0 +1,7 @@
+<<<<<<< SEARCH
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">Times Square - Breaking News Worldwide</h1>
+            <p class="text-xl mb-8">24/7 coverage of global events, politics, business & more</p>
+=======
+            <h1 class="text-4xl md:text-5xl font-bold mb-4">Times Square - Your Trusted News Source</h1>
+            <p class="text-xl mb-8">Live updates, investigative reports and global coverage</p>
+>>>>>>> REPLACE
